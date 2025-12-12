@@ -1,0 +1,7 @@
+{
+  "name": "AI Learning Style Converter",
+  "description": "Convert study materials into stories, flowcharts, analogies, and quizzes to master any subject.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
